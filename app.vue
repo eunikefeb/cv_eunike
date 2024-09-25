@@ -184,12 +184,12 @@
             <div class="d-flex justify-content-end align-items-center gap-3">
               <div class="mr-4">
                 <a href="mailto:eunikefebianti93@gmail.com" target="_blank">
-                  <img src="/img/gmail-logo.png" alt="Email Icon" style="width: 40px;">
+                  <img src="/img/Gmail-logo.png" alt="Email Icon" style="width: 40px;">
                 </a>
               </div>
               <div class="mr-4">
                 <a href="https://www.linkedin.com/in/eunike-febianti-239645225/" target="_blank">
-                  <img src="/img/linkedin-logo.png" alt="LinkedIn Icon" style="width: 40px;">
+                  <img src="/img/LinkedIn-logo.png" alt="LinkedIn Icon" style="width: 40px;">
                 </a>
               </div>
               <div>
@@ -199,7 +199,7 @@
               </div>
               <div>
                 <a href="https://github.com/eunikefeb" target="_blank">
-                  <img src="/img/github-logo.png" alt="GitHub Icon" style="width: 40px;">
+                  <img src="/img/GitHub-logo.png" alt="GitHub Icon" style="width: 40px;">
                 </a>
               </div>
             </div>
