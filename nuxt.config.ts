@@ -1,12 +1,10 @@
+import { BootstrapVue3 } from 'bootstrap-vue-3';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap-vue-3/dist/bootstrap-vue-3.css';
+
 export default {
-  css: [
-    'bootstrap/dist/css/bootstrap.css',
-    'bootstrap-vue/dist/bootstrap-vue.css'
-  ],
-
-  buildModules: [
-    '@nuxtjs/bootstrap-vue'
-  ],
-
-  compatibilityDate: '2024-09-23'
-};
+  // In your Vue app or Nuxt config
+  plugins: [
+    { src: '~/plugins/bootstrap-vue-3', mode: 'client' }
+  ]
+}
